@@ -1,0 +1,39 @@
+body {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.question {
+    color: #3295AE;
+    font-style: bold;
+}
+
+#find-out {
+    background-color: #F47867;
+}
+
+.card-header {
+    background-color: #FDEEC4;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: rgb(88, 88, 88);
+}
+
+.card-body {
+    background-color: #F5E3E0;
+}
+
+.card-footer {
+    background-color: #B0DDE8;
+    font-size: 1.3rem;
+    font-style: italic;
+    color: black;
+}
+
+.card-title {
+    color: rgb(61, 61, 61);
+}
+
+p {
+    font-size: 20px;
+    color:rgb(61, 61, 61);
+}
